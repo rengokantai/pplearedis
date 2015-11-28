@@ -1,0 +1,30 @@
+{
+  "name": "pplearedis",
+  "version": "1.0.0",
+  "description": "",
+  "main": "index.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/rengokantai/pplearedis.git"
+  },
+  "author": "",
+  "license": "ISC",
+  "bugs": {
+    "url": "https://github.com/rengokantai/pplearedis/issues"
+  },
+  "homepage": "https://github.com/rengokantai/pplearedis#readme",
+  "dependencies": {
+    "async": "^1.5.0",
+    "bcryptjs": "^2.3.0",
+    "commander": "^2.9.0",
+    "debug": "^2.2.0",
+    "lodash": "^3.10.1",
+    "redis": "^2.4.2"
+  },
+  "devDependencies": {
+    "should": "^7.1.1"
+  }
+}
